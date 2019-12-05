@@ -10,7 +10,7 @@ _by <Hassan Ali>_
 ---
 ## Initial Setup
 
-##### You can also use ide, which will be the place where you will be working. You can go and login by going to the [ide website](ide.cs50.io)
+##### You can also use ide, which will be the place where you will be working. You can go and login by going to the [ide website](ide.cs50.io).
 
 
 ---
