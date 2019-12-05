@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Hassan Ali>_
+_by Hassan Ali
 
 ---
 ## Git vs. GitHub
