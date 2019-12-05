@@ -27,7 +27,7 @@
 
 ### Extra Credit
 
-##### If you used `git init` in the wrong directory you have to use `rm -rf .git` to uninitialize. You can also remove a repository remotely by going into the repo, and then clicking on settings, then go down until you see **delete this repo** and then confirm.
+##### If you used `git init` in the wrong directory you have to use `rm -rf .git` to uninitialize. You can also remove a repository remotely by going into the repo, and then clicking on settings, then go down until you see **delete this repo** and then confirm. Furthermore, if you want to remove a repo in the IDE, you would have to `rm -rf name of the directory`.
 
 
 
