@@ -10,7 +10,7 @@
 ---
 ## Initial Setup
 
-##### You can also use ide, which will be the place where you will be working. You can go and login by going to the [ide website](ide.cs50.io)
+##### You can also use the CS50 IDE, which will be the place where you will be working. You can go and login by going to the [ide website](ide.cs50.io), and by creating an account by using a email and password.
 
 
 ---
@@ -23,10 +23,11 @@
 ## Workflow & Commands
 
 ##### First, you make any changes you want and save the files by doing `command s`, next you add the file(s) by using `git add` and then commit by using `git commit`. Then you add the remote and then push to github by using the commands on the github repo.
+---
 
 ### Extra Credit
 
-##### If you used `git init` in the wrong directory you have to use `rm -rf .git` to uninitialize. You can also remove a repository remotely by going into the repo, and then clicking on settings, then go down until you see **delete this repo** and then confirm.s
+##### If you used `git init` in the wrong directory you have to use `rm -rf .git` to uninitialize. You can also remove a repository remotely by going into the repo, and then clicking on settings, then go down until you see **delete this repo** and then confirm.
 
 
 
