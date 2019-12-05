@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by Hassan Ali
+#### Hassan Ali
 
 ---
 ## Git vs. GitHub
@@ -23,6 +23,10 @@ _by Hassan Ali
 ## Workflow & Commands
 
 ##### First, you make any changes you want and save the files by doing `command s`, next you add the file(s) by using `git add` and then commit by using `git commit`. Then you add the remote and then push to github by using the commands on the github repo.
+
+### Extra Credit
+
+##### If you used `git init` in the wrong directory you have to use `rm -rf .git` to uninitialize. You can also remove a repository remotely by going into the repo, and then clicking on settings, then go down until you see **delete this repo** and then confirm.s
 
 
 
